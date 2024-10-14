@@ -1,5 +1,5 @@
 - Hi, I’m @MrLays1x4 , a student of software engineering.
-- I’m interested in software engineering. 
+- I’m interested in software engineering and game hacking. 
 - I wish to bulid my own awesome program.
 - See you in the internet! :)
 <!---
